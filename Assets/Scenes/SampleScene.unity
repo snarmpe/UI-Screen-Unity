@@ -972,7 +972,7 @@ MonoBehaviour:
   hoverSprite: {fileID: 1773360428, guid: 3f8f9f0778640ee458fc702d5befd965, type: 3}
   clickSprite: {fileID: 819866813, guid: 3f8f9f0778640ee458fc702d5befd965, type: 3}
   clickSpriteDuration: 0.2
-  clickSound: {fileID: 8300000, guid: d5b1b70f2dca08841a15264a6f38eca1, type: 3}
+  clickSound: {fileID: 8300000, guid: c896661685add6848aa969fc8350e7a2, type: 3}
 --- !u!114 &738372260
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1512,9 +1512,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 529d7ec21ec1274479ffcfaad4800af4, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 4176044ae776ec9479e0eca6497b7126, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.434
+  m_Volume: 0.596
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -1849,7 +1849,7 @@ MonoBehaviour:
   hoverSprite: {fileID: 534996959, guid: 3f8f9f0778640ee458fc702d5befd965, type: 3}
   clickSprite: {fileID: 2119905326, guid: 3f8f9f0778640ee458fc702d5befd965, type: 3}
   clickSpriteDuration: 0.2
-  clickSound: {fileID: 8300000, guid: d5b1b70f2dca08841a15264a6f38eca1, type: 3}
+  clickSound: {fileID: 8300000, guid: f2a42b996b8622b43aad473e179ad491, type: 3}
 --- !u!114 &1402856149
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2090,7 +2090,7 @@ MonoBehaviour:
   hoverSprite: {fileID: -2003903859, guid: 3f8f9f0778640ee458fc702d5befd965, type: 3}
   clickSprite: {fileID: 1495045076, guid: 3f8f9f0778640ee458fc702d5befd965, type: 3}
   clickSpriteDuration: 0.2
-  clickSound: {fileID: 8300000, guid: d5b1b70f2dca08841a15264a6f38eca1, type: 3}
+  clickSound: {fileID: 8300000, guid: ab06ee93a2579104aae0d01d9ee40e51, type: 3}
 --- !u!114 &1421759545
 MonoBehaviour:
   m_ObjectHideFlags: 0
